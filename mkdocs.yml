@@ -5,4 +5,4 @@ nav:
   - 前言: index.md
   - 概述: overview.md
   - 数据收集:
-      - python基础
+      - python_basic.md
