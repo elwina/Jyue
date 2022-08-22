@@ -1,2 +1,8 @@
 site_name: Jyue
 theme: readthedocs
+
+nav:
+  - 前言: index.md
+  - 概述: overview.md
+  - 数据收集:
+      - python基础
